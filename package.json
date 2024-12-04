@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "name": "github-profile-view-counter",
+  "version": "1.0.0",
+  "description": "An Express-based service that tracks GitHub profile views and displays the count in a customizable SVG badge.",
+  "main": "index.js",
+  "author": "cys27",
+  "license": "MIT"
+}
