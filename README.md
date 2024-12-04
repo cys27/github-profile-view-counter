@@ -1,6 +1,6 @@
 # GitHub Profile View Counter
 
-This is a simplified version of the [GitHub Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter).
+This is a simplified version of the [Antonkomarev - GitHub Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter).
 
 This application tracks the number of views on a GitHub user's profile and displays the count in a dynamically generated SVG badge. The badge shows the current view count for a given user, which is updated each time their profile is accessed. The view count is stored locally, and users can customize the badge's color by providing a valid hex color code. If no color is specified, a default color is used.
 
